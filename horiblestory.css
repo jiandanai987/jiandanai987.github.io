@@ -1,0 +1,16 @@
+
+/*页面整体居中*/
+body{margin:100px;    padding:0 auto;
+    margin-left: 400px; margin-right: 400px;
+    text-align:left;}
+body{background-image: url(血迹.jpg);
+    background-repeat:no-repeat;
+    background-position: top center;
+    background-color: black;
+    color: white;}
+h1 {color:white;
+    text-align:center;
+    font-size: 100px}
+h2 {color:red;
+    }
+p:hover{color:red;}
